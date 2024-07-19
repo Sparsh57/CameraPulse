@@ -1,0 +1,20 @@
+{
+    "UNIQUE_NUMBER": null,
+    "MAIN_ROI": null,
+    "PHONE_ROI": null,
+    "PHONE_CONFIDENCE": 0.15,
+    "RTSP_LINK": null,
+    "TAMPERING_INDEX": 7,
+    "NO_PERSON_TIME": 15,
+    "PHONE_TIME": 10,
+    "CLOSE_TIME": [
+        22,
+        8
+    ],
+    "OPEN_TIME": [
+        10,
+        21
+    ],
+    "SHOW_FRAME": true,
+    "TAMPERING_TEMP_IMAGES": null
+}
