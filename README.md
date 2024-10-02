@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 
-VigilanceMonitor is a security monitoring system that leverages computer vision to ensure vigilance by detecting the presence of a person, the use of a phone, and camera tampering. It generates alerts based on defined conditions and stores them in a local database. Another script processes these alerts, uploads images to an FTP server, and sends data to an API.
+CameraPulse is a security monitoring system that leverages computer vision to ensure vigilance by detecting the presence of a person, the use of a phone, and camera tampering. It generates alerts based on defined conditions and stores them in a local database. Another script processes these alerts, uploads images to an FTP server, and sends data to an API.
 
 ## 📜 Features
 
