@@ -1,4 +1,4 @@
-# VigilanceMonitor
+# CameraPulse
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
